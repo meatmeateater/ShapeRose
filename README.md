@@ -3,6 +3,7 @@
 A SwiftUI artwork created using basic Shape components, gradients, lighting and transparency effects.
 
 <!-- Add preview screenshot here -->
+<img width="658" height="896" alt="image" src="https://github.com/user-attachments/assets/3ed7d5ab-4979-4709-913d-521658c7d6f9" />
 
 ## Features
 
